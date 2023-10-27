@@ -1,0 +1,19 @@
+{
+    "name": "andres/qr-generator",
+    "description": "Generador de códigos QR mediante formulario",
+    "type": "project",
+    "require": {
+        "endroid/qr-code": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Andres\\QrGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrés Crespo",
+            "email": "acrerosj@canariaseducacion.es"
+        }
+    ]
+}
